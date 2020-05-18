@@ -165,7 +165,7 @@ for int(t=0;t<l;t++)
 int main() 
 { 
     int A[50];
-cin>>A[i];
+    scanf("%d",A[i]);
     int sum;
     int arr_size = sizeof(A) / sizeof(A[0]); 
     find3Numbers(A, arr_size, sum); 
