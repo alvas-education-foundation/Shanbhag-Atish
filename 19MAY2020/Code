@@ -80,3 +80,5 @@ class Main
 		} else {
 			System.out.print("Linked List is not a palindrome.");
 		}
+}
+}
